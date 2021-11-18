@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "Item": "Apple",
+        "Price": "25",
+        "Quantity": "235"
+
+    },
+    {
+        "id": 2,
+        "Item": "Apple",
+        "Price": "25",
+        "Quantity": "235"
+
+    },
+    {
+        "id": 3,
+        "Item": "Apple",
+        "Price": "25",
+        "Quantity": "235"
+
+    }
+]
